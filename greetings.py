@@ -5,4 +5,4 @@ print ("welcome my friend")
 
 #ask the user what he/she wants to drink
 
-if you can dream it - you can do it!
+if you can dream it - you can do it!!
