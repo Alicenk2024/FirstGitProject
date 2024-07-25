@@ -1,2 +1,2 @@
- can fly to the moon
+I am a program that can fly to the moon
 
