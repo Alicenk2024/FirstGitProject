@@ -1,3 +1,3 @@
 print("Hello World")
-print("How are you?")
+print("It's a good day today")
 print("Good Bye")
